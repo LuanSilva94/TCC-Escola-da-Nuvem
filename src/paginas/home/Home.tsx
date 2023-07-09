@@ -26,7 +26,7 @@ function Home() {
                             component="p"
                             align="center"
                         >
-                           O futuro da cloud 
+                            Quem somos e o que buscamos
                         </Typography>
                         <Typography
                             variant="h6"
@@ -36,7 +36,19 @@ function Home() {
                             align="justify"
                             style={{ marginTop: "20px"}}
                         >
-                            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sit voluptatem eius at dolore perferendis deleniti fuga! Nostrum, hic. Cum nulla consequatur quia a. Saepe aliquid delectus voluptate, eius neque Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quam expedita dolorem fugit beatae natus mollitia quibusdam adipisci inventore! Enim, laborum et. Vitae, officiis atque molestias repudiandae delectus quasi voluptas sed.
+                            No atual cenário digital em rápida evolução, muitos profissionais
+
+estão considerando uma transição de carreira para a nuvem.
+
+Essa transição oferece inúmeras oportunidades de crescimento e avanço.
+
+Adquirindo o conhecimento necessário, obtendo certificações
+
+relevantes, estabelecendo network e mantendo-se atualizado
+
+com as tendências do setor, podemos navegar com
+
+sucesso nessa transição e prosperar no campo da computação em nuvem. 
                         </Typography>
                     </Box>
                 </Grid>

@@ -10,19 +10,7 @@ import { ToastContainer } from "react-toastify";
 
 function App() {
 	return (
-			<BrowserRouter>
-				<ToastContainer
-					position="top-right"
-					autoClose={2000}
-					hideProgressBar
-					newestOnTop={false}
-					closeOnClick
-					rtl={false}
-					pauseOnFocusLoss
-					draggable
-					pauseOnHover
-					theme="colored"
-				/>
+			
 				<Navbar />
 				<div style={{minHeight:'100vh'}}>
 					<Routes>

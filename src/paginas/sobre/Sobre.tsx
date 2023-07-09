@@ -59,13 +59,6 @@ const content = [
         pic: picLucas,
         txt: 'Técnico em TI',
     },
-    {
-        name: ' ',
-        cvlink: ' ',
-        cvname: '',
-        pic: '',
-        txt: '',
-    }
 ];
 
 export function Sobre() {
